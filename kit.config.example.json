@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "name": "my-app",
+      "path": "~/code/my-app",
+      "test_command": "npm test",
+      "protect_main_checkout": "edit",
+      "review_before_commit": false
+    },
+    {
+      "name": "my-api",
+      "path": "~/code/my-api",
+      "test_command": "python -m pytest",
+      "protect_main_checkout": "commit"
+    }
+  ]
+}
