@@ -1,4 +1,4 @@
-# Claude solo-founder kit
+# Claude solo kit
 
 The setup I use to run three products through [Claude Code](https://claude.com/claude-code) without being a software engineer. It's not a framework. It's a few small files that fix the problems you hit once Claude does real work every day:
 
@@ -18,8 +18,8 @@ The setup I use to run three products through [Claude Code](https://claude.com/c
 You need [Claude Code](https://claude.com/claude-code), Python 3.8+ and git, on Mac, Linux or Windows.
 
 ```bash
-git clone https://github.com/reachviveksai-cloud/claude-solo-founder-kit
-cd claude-solo-founder-kit
+git clone https://github.com/reachviveksai-cloud/claude-solo-kit
+cd claude-solo-kit
 python3 install.py
 ```
 
